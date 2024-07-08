@@ -37,7 +37,7 @@
               <p>I am a computational research associate at the <a href="https://www.tsankovlab.org/">Tsankov Lab</a> in the <a href="https://icahn.mssm.edu/research/genomics">Department of Genetics and Genomic Sciences</a> at the <a href="https://icahn.mssm.edu/">Icahn School of Medicine at Mount Sinai</a>. 
               </p>
               <p>
-                I am broadly interested in using statistical/machine learning, and statistical tools more generally, to solve pressing biomedical problems. I'm especially passionate about contributing to aging research, and research on the three main age-related diseases: Cancer, Heart Disease, and Dementia.   
+                I am broadly interested in using statistical/machine learning, and statistical tools more generally, to solve pressing biomedical problems. I'm especially passionate about contributing to aging research and research on the three main age-related diseases: Cancer, Heart Disease, and Dementia.   
               </p>
               <p>
                 I have a B.S.E degree in Data Science and a minor in Mathematics (equivalent to a full degree in Mathematics in terms of math coursework) from the <a href="https://umich.edu/">University of Michigan Ann Arbor</a>. At Michigan, I mainly worked in <a href="https://www.ambujtewari.com/"> Ambuj Tewari</a>'s and <a href="https://truttmann.lab.medicine.umich.edu/"> Matthias Truttmann</a>'s labs.
@@ -128,7 +128,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat != 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -179,7 +179,6 @@
           {% endfor %}
           {% endfor %}
         </table>
-
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">
