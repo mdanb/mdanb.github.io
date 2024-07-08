@@ -79,6 +79,8 @@
               <br>
               {{post.authors}}
               <br>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
 	      {% if post.publication %}
               <a href="{{post.publication}}">publication</a> /
               {% endif %}
