@@ -6,6 +6,7 @@ image: /images/aging_rnaseq.png
 categories: research
 author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Ambuj Tewari, Matthias C. Truttmann"
-code: 
+paper: https://www.sciencedirect.com/science/article/pii/S0531556523000281
+code: https://github.com/mdanb/aging_rna_seq_metaanalysis
 ---
 We carry out a systematic meta-analysis of over 1200 bulk RNA sequencing (RNASeq) samples obtained from 74 peer-reviewed publications on aging-related transcriptomic changes in C. elegans. Using both differential expression analyses and machine learning approaches, we mine the pooled data for novel pro-longevity genes.
