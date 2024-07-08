@@ -2,7 +2,7 @@
 layout: post
 title:  "A Mathematical Model of Cellular Senescence"
 date:   2021-12-20 22:20:59 +00:00
-image: /images/cs448i.png
+image: /images/math463.png
 categories: Michigan
 author: "Mohamad Bairakdar"
 course: "MATH 463: Introduction to Mathematical Biology"
