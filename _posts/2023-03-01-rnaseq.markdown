@@ -3,7 +3,7 @@ layout: post
 title:  "A meta-analysis of RNA-Seq studies to identify novel genes that regulate aging"
 date:   2023-03-01 22:21:59 +00:00
 image: /images/aging_rnaseq.png
-categories: coursework
+categories: research
 author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Ambuj Tewari, Matthias C. Truttmann"
 publication: https://www.sciencedirect.com/science/article/pii/S0531556523000281
