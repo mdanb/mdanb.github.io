@@ -6,7 +6,6 @@ image: /images/cot.png
 categories: research
 author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Bruno Giotti, Wooseung Lee, Paula Stancl, Elvin Wagenblast, Dolores Hambardzumyan, Paz Polak, Rosa Karlic, Alexander M. Tsankov"
-publication: https://www.sciencedirect.com/science/article/pii/S0531556523000281
 code: https://github.com/mdanb/epigenetic_effects_on_mutational_landscape
 slides: /pdfs/coo_cab_retreat.pdf
 ---
