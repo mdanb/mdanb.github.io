@@ -8,5 +8,6 @@ author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Bruno Giotti, Wooseung Lee, Paula Stancl, Elvin Wagenblast, Dolores Hambardzumyan, Paz Polak, Rosa Karlic, Alexander M. Tsankov"
 publication: https://www.sciencedirect.com/science/article/pii/S0531556523000281
 code: https://github.com/mdanb/epigenetic_effects_on_mutational_landscape
+slides: /pdfs/coo_cab_retreat.pdf
 ---
-We leverage single-cell chromatin accessibility data from 559 healthy cell subsets to predict the cell of transformation (COT) across 36 cancer subtypes, providing unprecedented scale and resolution into the cellular beginnings of cancers. Slides presented at the Mount Sinai Cancer Biology Retreat. 
+We leverage single-cell chromatin accessibility data from 559 healthy cell subsets to predict the cell of transformation (COT) across 36 cancer subtypes, providing unprecedented scale and resolution into the cellular beginnings of cancers. Slides presented at the Mount Sinai Cancer Biology Retreat, March 25th 2023.
