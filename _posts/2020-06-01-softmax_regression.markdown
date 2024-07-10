@@ -2,7 +2,7 @@
 layout: post
 title:  "A pure Numpy implementation of softmax regression with batch gradient descent"
 date:   2020-06-01 22:20:59 +00:00
-image: /images/.png
+image: /images/softmax_reg.png
 categories: Personal
 author: "Mohamad Bairakdar"
 subtitle: ""
