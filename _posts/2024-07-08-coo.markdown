@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning the cellular origins of cancer using single-cell chromatin landscapes"
+date:   2024-07-08 22:21:59 +00:00
+image: /images/cot.png
+categories: research
+author: "Mohamad Bairakdar"
+authors: "<strong>Mohamad D. Bairakdar</strong>, Bruno Giotti, Wooseung Lee, Paula Stancl, Elvin Wagenblast, Dolores Hambardzumyan, Paz Polak, Rosa Karlic, Alexander M. Tsankov"
+code: 
+slides: 
+---
+We leverage single-cell chromatin accessibility data from 559 healthy cell subsets to predict the cell of origin (COO) across 36 cancer subtypes, providing unprecedented scale and resolution into the cellular beginnings of cancers. Slides presented at the Mount Sinai Cancer Biology Retreat, March 25th 2024.
