@@ -6,7 +6,8 @@ image: /images/cot.png
 categories: research
 author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Bruno Giotti, Wooseung Lee, Paula Stancl, Elvin Wagenblast, Dolores Hambardzumyan, Paz Polak, Rosa Karlic, Alexander M. Tsankov"
-code: 
+publication: https://www.nature.com/articles/s41467-025-63957-3
+code: https://github.com/TsankovLab/SCOOP
 slides: 
 ---
-We leverage single-cell chromatin accessibility data from 559 healthy cell subsets to predict the cell of origin (COO) across 36 cancer subtypes, providing unprecedented scale and resolution into the cellular beginnings of cancers. Slides presented at the Mount Sinai Cancer Biology Retreat, March 25th 2024.
+We leverage single-cell chromatin accessibility data from 559 healthy cell subsets to predict the cell of origin (COO) across 36 cancer subtypes, providing unprecedented scale and resolution into the cellular beginnings of cancers.

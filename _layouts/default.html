@@ -34,13 +34,13 @@
               <h1>
                 Mohamad Daniel Bairakdar
               </h1>
-	      <p>I'm very fortunate to be a first-year <a href=https://www.biostat.washington.edu>Biostatistics</a> PhD student at the <a href="https://www.washington.edu/">University of Washington</a>. Previously, I was a computational research associate at the <a href="https://www.tsankovlab.org/">Tsankov Lab</a> in the <a href="https://icahn.mssm.edu/research/genomics">Department of Genetics and Genomic Sciences</a> at the <a href="https://icahn.mssm.edu/">Icahn School of Medicine at Mount Sinai</a>. 
+	      <p>I'm a third-year <a href=https://www.biostat.washington.edu>Biostatistics</a> PhD student at the <a href="https://www.washington.edu/">University of Washington</a>, advised by <a href="https://faculty.washington.edu/ashojaie/">Ali Shojaie</a> and <a href="https://linnykos.github.io/">Kevin Lin</a>. Previously, I was a computational research associate at the <a href="https://www.tsankovlab.org/">Tsankov Lab</a> in the <a href="https://icahn.mssm.edu/research/genomics">Department of Genetics and Genomic Sciences</a> at the <a href="https://icahn.mssm.edu/">Icahn School of Medicine at Mount Sinai</a>.
               </p>
               <p>
                 I am broadly interested in using statistical and computational tools to solve pressing biomedical problems. I'm especially passionate about contributing to aging research and research on the three main age-related diseases: Cancer, Heart Disease, and Dementia.   
               </p>
               <p>
-                I have a B.S.E degree in Data Science and a minor in Mathematics from the <a href="https://umich.edu/">University of Michigan Ann Arbor</a> (GO BLUE!). At Michigan, I mainly worked in <a href="https://www.ambujtewari.com/"> Ambuj Tewari</a>'s and <a href="https://truttmann.lab.medicine.umich.edu/"> Matthias Truttmann</a>'s labs.
+                I have a B.S.E degree in Data Science and a minor in Mathematics from the <a href="https://umich.edu/">University of Michigan Ann Arbor</a> (GO BLUE!). At Michigan, I mainly worked in the labs of <a href="https://www.ambujtewari.com/">Ambuj Tewari</a> and <a href="https://truttmann.lab.medicine.umich.edu/">Matthias Truttmann</a>.
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="mailto:mdanb99@gmail.com">Email</a> &nbsp;/&nbsp;
@@ -71,10 +71,16 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
+            {% if post.image %}
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
             </td>
+            {% endif %}
+            {% if post.image %}
             <td style="padding:2.5%;width:75%;vertical-align:middle">
+            {% else %}
+            <td style="padding:2.5%;width:100%;vertical-align:middle">
+            {% endif %}
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
@@ -197,4 +203,3 @@
 </body>
 
 </html>
-
