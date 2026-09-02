@@ -2,6 +2,7 @@
 layout: post
 title: "Gut Microbiome Composition and Function in Relation to Structural Brain Measures in Hispanic and Latino Adults"
 date: 2026-09-02 00:00:00 +00:00
+image: /images/microbiome_brain.png
 categories: research
 author: "Mohamad Bairakdar"
 authors: "<strong>Mohamad D. Bairakdar</strong>, Deepika Dinesh, Tao Wang, Robert Burk, Qibin Qi, Curtis Huttenhower, Richard B. Lipton, Hector M. González, Charles DeCarli, Iris Broce, Wassim Tarraf, Bharat Thyagarajan, Marc D. Gellman, Haibo Zhou, Robert C. Kaplan, Jing Ma, Natalia Palacios"
